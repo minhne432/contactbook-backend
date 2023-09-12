@@ -1,0 +1,12 @@
+{
+  "name": "contactbook-backend",
+  "version": "1.0.0",
+  "description": "Bài tập thực hành CT313H (Công nghệ và Dịch vụ Web), HK1 2023-2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
