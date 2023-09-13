@@ -12,8 +12,7 @@ function getContactsByFilter(req,res){
         filters.push(`name=${name}`);
     }
     return res.send({
-        message: `getContactByFilter handler with query {
-            ${filters.join(', ')}
+        message: `getContactByFilter handler with query {${filters.join(', ')}
         }`
     });
 }
